@@ -2,6 +2,10 @@
 
 \# INSERT ANSWERS HERE #
 
+Question 4d: 
+<img width="1134" alt="image" src="https://github.com/user-attachments/assets/172dd4a3-b163-44b7-822a-2e6f058430cc">
+
+
 ## Instructions
 
 The homework for this Computer skills practical is divided into 5 questions for a total of 100 points. First, fork this repo and make sure your fork is made **Public** for marking. Answers should be added to the # INSERT ANSWERS HERE # section above in the **README.md** file of your forked repository.
