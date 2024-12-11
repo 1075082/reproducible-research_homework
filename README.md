@@ -1,6 +1,8 @@
 # Reproducible research: version control and R
 
-\# INSERT ANSWERS HERE #
+Reproducible research assignment Q4 & 5 answers
+
+****
 
 **Question 4**
 
@@ -19,6 +21,8 @@ A 'random seed' is the initial value used by a random number generator to produc
 4. Go to your commit history and click on the latest commit. Show the edit you made to the code in the comparison view (add this image to the README.md of the fork). (5 points)
 
 <img width="1134" alt="image" src="https://github.com/user-attachments/assets/172dd4a3-b163-44b7-822a-2e6f058430cc">
+
+****
 
 **Question 5**
 
@@ -52,7 +56,7 @@ A 300kb dsDNA is estimated to have a volume of 6697000mm3.
 
 <img width="575" alt="image" src="https://github.com/user-attachments/assets/f96cf10b-97d2-4a79-ab92-9516a32f97ad" />
 
-
+****
 
 ## Instructions
 
