@@ -40,10 +40,17 @@ These values are identical to those found in the paper.
 
 4. Write the code to reproduce the figure shown below. (10 points)
 
+_**Insert link to R code**_
 
+<img width="653" alt="image" src="https://github.com/user-attachments/assets/80b7f45d-aeba-4b00-b6d9-d36dffacc13d" />
 
 5. What is the estimated volume of a 300 kb dsDNA virus? (4 points)
 
+A 300kb dsDNA is estimated to have a volume of 6697000mm3.
+
+**Insert link to R code**__
+
+<img width="575" alt="image" src="https://github.com/user-attachments/assets/f96cf10b-97d2-4a79-ab92-9516a32f97ad" />
 
 
 
