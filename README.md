@@ -2,6 +2,8 @@
 
 \# INSERT ANSWERS HERE #
 
+**Question 4**
+
 Question 4a
 #different paths generated each time
 #difference is because angle is generated via random number generator from 0 to 2pi
@@ -20,6 +22,19 @@ Question 4c
 
 Question 4d: 
 <img width="1134" alt="image" src="https://github.com/user-attachments/assets/172dd4a3-b163-44b7-822a-2e6f058430cc">
+
+**Question 5**
+
+Question 5a:
+
+Question 5b:
+
+Question 5c:
+
+Question 5d:
+
+Question 5e:
+
 
 
 ## Instructions
