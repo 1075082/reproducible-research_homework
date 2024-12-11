@@ -24,7 +24,7 @@ A 'random seed' is the initial value used by a random number generator to produc
 
 ****
 
-**Question 5**
+**Question 5** - see R code: https://github.com/1075082/reproducible-research_homework/blob/dev/viroid_analysis.R
 
 1. Import the data for double-stranded DNA (dsDNA) viruses taken from the Supplementary Materials of the original paper into Posit Cloud (the csv file is in the question-5-data folder). How many rows and columns does the table have? (3 points)
 
@@ -44,7 +44,7 @@ These values are identical to those found in the paper.
 
 4. Write the code to reproduce the figure shown below. (10 points)
 
-_**Insert link to R code**_
+https://github.com/1075082/reproducible-research_homework/blob/dev/viroid_analysis.R
 
 <img width="653" alt="image" src="https://github.com/user-attachments/assets/80b7f45d-aeba-4b00-b6d9-d36dffacc13d" />
 
@@ -52,7 +52,7 @@ _**Insert link to R code**_
 
 A 300kb dsDNA is estimated to have a volume of 6697000mm3.
 
-**Insert link to R code**__
+https://github.com/1075082/reproducible-research_homework/blob/dev/viroid_analysis.R
 
 <img width="575" alt="image" src="https://github.com/user-attachments/assets/f96cf10b-97d2-4a79-ab92-9516a32f97ad" />
 
