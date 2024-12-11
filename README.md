@@ -2,20 +2,20 @@
 
 \# INSERT ANSWERS HERE #
 
-#question 4a
+Question 4a
 #different paths generated each time
 #difference is because angle is generated via random number generator from 0 to 2pi
 #starts at 0,0
 #distance is always the same: 500 steps of length 0.25 units (h=0.25)
 
-#question 4b
+Question 4b
 #investigate the term random seed
 #used to produce sequences of numbers that appear random but are reproducible if the same seed is used
 #using same seed will always result in the same sequence of numbers
 #important for reproducibility in simulations/experiments involving randomness
 #ensures experiment involving random processes can be replicated by others
 
-#question 4c
+Question 4c
 #need to edit R file titled random_walk.R and push to github
 
 Question 4d: 
