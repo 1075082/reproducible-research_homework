@@ -4,11 +4,20 @@
 
 **Question 4**
 
-Question 4a
-#different paths generated each time
-#difference is because angle is generated via random number generator from 0 to 2pi
-#starts at 0,0
-#distance is always the same: 500 steps of length 0.25 units (h=0.25)
+1. A script for simulating a random walk is provided in the question-4-code folder of this repo. Execute the code to produce the paths of two random walks. What do you observe? (10 points)
+
+The code simulates 2 random walks and plots their paths. Each walk starts at (0,0) and takes 500 steps of length 0.25. When the code is executed, different paths are generated for the two walks despite their overall length being identical. This is because the angle of each step relative to its previous position is generated at random (between 0 and 2pi), and each walk was generated independently.
+
+2. Investigate the term random seeds. What is a random seed and how does it work? (5 points)
+
+A 'random seed' is the initial value used by a random number generator to produce a set of numbers. Using the same seed will always produce the same sequence of random numbers. This is important in ensuring reproducibility because they allow others to generate the exact same sequence of random numbers, leading to identical results in simulations or experiments if run again.
+
+3. Edit the script to make a reproducible simulation of Brownian motion. Commit the file and push it to your forked reproducible-research homework repo. (10 points)
+
+**_insert link to random_walk from question 4 code_**
+
+5. Go to your commit history and click on the latest commit. Show the edit you made to the code in the comparison view (add this image to the README.md of the fork). (5 points)
+
 
 Question 4b
 #investigate the term random seed
