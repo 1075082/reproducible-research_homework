@@ -16,33 +16,34 @@ A 'random seed' is the initial value used by a random number generator to produc
 
 **_insert link to random_walk from question 4 code_**
 
-5. Go to your commit history and click on the latest commit. Show the edit you made to the code in the comparison view (add this image to the README.md of the fork). (5 points)
+4. Go to your commit history and click on the latest commit. Show the edit you made to the code in the comparison view (add this image to the README.md of the fork). (5 points)
 
-
-Question 4b
-#investigate the term random seed
-#used to produce sequences of numbers that appear random but are reproducible if the same seed is used
-#using same seed will always result in the same sequence of numbers
-#important for reproducibility in simulations/experiments involving randomness
-#ensures experiment involving random processes can be replicated by others
-
-Question 4c
-#need to edit R file titled random_walk.R and push to github
-
-Question 4d: 
 <img width="1134" alt="image" src="https://github.com/user-attachments/assets/172dd4a3-b163-44b7-822a-2e6f058430cc">
 
 **Question 5**
 
-Question 5a:
+1. Import the data for double-stranded DNA (dsDNA) viruses taken from the Supplementary Materials of the original paper into Posit Cloud (the csv file is in the question-5-data folder). How many rows and columns does the table have? (3 points)
 
-Question 5b:
+There are 33 rows and 13 columns in the table.
 
-Question 5c:
+2. What transformation can you use to fit a linear model to the data? Apply the transformation. (3 points)
 
-Question 5d:
+A log transformation can be applied as it results in a trend that appears close to linear.
 
-Question 5e:
+3. Find the exponent (β) and scaling factor (α) of the allometric law for dsDNA viruses and write the p-values from the model you obtained, are they statistically significant? Compare the values you found to those shown in Table 2 of the paper, did you find the same values? (10 points)
+
+The relationship between virion volume (V) and genome length (L) is represented by the equation V = α(L^β). To linearise the equation the logarithm of both sides was taken, resulting in logV = logα + βlogL, where β is the gradient and logα is the intercept of the line. A linear model was then fitted to the log-transformed data to estimate β and logα. The following estimates were obtained:
+   - **β = 1.5152**, p = 6.44e-10
+   - **α = 1181.807** (logα = 7.0748), p = 2.28e-10
+
+These values are identical to those found in the paper. 
+
+4. Write the code to reproduce the figure shown below. (10 points)
+
+
+
+5. What is the estimated volume of a 300 kb dsDNA virus? (4 points)
+
 
 
 
