@@ -19,7 +19,7 @@ A 'random seed' is the initial value used by a random number generator to produc
 
 3. Edit the script to make a reproducible simulation of Brownian motion. Commit the file and push it to your forked reproducible-research homework repo. (10 points)
 
-**_insert link to random_walk from question 4 code_**
+https://github.com/1075082/reproducible-research_homework/blob/main/question-4-code/random_walk.R
 
 4. Go to your commit history and click on the latest commit. Show the edit you made to the code in the comparison view (add this image to the README.md of the fork). (5 points)
 
