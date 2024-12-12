@@ -27,7 +27,7 @@ https://github.com/1075082/reproducible-research_homework/blob/main/question-4-c
 
 ****
 
-**Question 5** - see R code: https://github.com/1075082/reproducible-research_homework/blob/dev/viroid_analysis.R
+**Question 5** - see R code: https://github.com/1075082/reproducible-research_homework/blob/main/viroid_analysis.R
 
 1. Import the data for double-stranded DNA (dsDNA) viruses taken from the Supplementary Materials of the original paper into Posit Cloud (the csv file is in the question-5-data folder). How many rows and columns does the table have? (3 points)
 
