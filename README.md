@@ -53,7 +53,7 @@ https://github.com/1075082/reproducible-research_homework/blob/main/viroid_analy
 
 5. What is the estimated volume of a 300 kb dsDNA virus? (4 points)
 
-A 300kb dsDNA is estimated to have a volume of 6697000nm3.
+A 300kb dsDNA is estimated to have a volume of 6697006nm3.
 
 https://github.com/1075082/reproducible-research_homework/blob/main/viroid_analysis.R
 
