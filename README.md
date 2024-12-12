@@ -2,7 +2,7 @@
 
 **Questions 1-3**
 
-See logistic_growth repo:
+See README.md in logistic_growth repo:
 https://github.com/1075082/logistic_growth
 
 ****
