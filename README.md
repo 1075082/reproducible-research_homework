@@ -1,15 +1,9 @@
 # Reproducible research: version control and R
 
-Reproducible research assignment Q1-3 answers
-
-****
+**Questions 1-3**
 
 See logistic_growth repo:
 https://github.com/1075082/logistic_growth
-
-****
-
-Reproducible research assignment Q4 & 5 answers
 
 ****
 
