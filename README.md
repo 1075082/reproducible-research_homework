@@ -17,6 +17,8 @@ The code simulates 2 random walks and plots their paths. Each walk starts at (0,
 
 A 'random seed' is the initial value used by a random number generator to produce a set of numbers. Using the same seed will always produce the same sequence of random numbers. This is important in ensuring reproducibility because they allow others to generate the exact same sequence of random numbers, leading to identical results in simulations or experiments if run again.
 
+Source: https://towardsdatascience.com/how-to-use-random-seeds-effectively-54a4cd855a79
+
 3. Edit the script to make a reproducible simulation of Brownian motion. Commit the file and push it to your forked reproducible-research homework repo. (10 points)
 
 https://github.com/1075082/reproducible-research_homework/blob/main/question-4-code/random_walk.R
